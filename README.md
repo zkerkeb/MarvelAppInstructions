@@ -1,7 +1,3 @@
-# MarvelAppInstructions
-Instructions concernant l'application Marvel a créer.
-
-
 # Création PWA Marvel
 
 
