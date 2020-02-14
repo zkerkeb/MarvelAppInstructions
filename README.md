@@ -62,5 +62,8 @@ Le :id signifie que l’info passé a l’url sera un paramètre récupérable (
 
 Le but de l’exercice est de récupérer le paramètre et de faire une requête API a marvel pour récupérer les informations concernant le personnage.
  
+ ## IV ) Routes protégées 
+ 
+ Vous devrez faire en sorte que les utilisateurs sans token de connexion soit redirigé vers l'ecran login, Et que les utilisateurs ayant un token ne puissent pas aller sur l'ecran Login, qu'il soient redirigé vers l'ecran characters.
 
 
