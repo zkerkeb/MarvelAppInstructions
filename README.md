@@ -67,3 +67,10 @@ Le but de l’exercice est de récupérer le paramètre et de faire une requête
  Vous devrez faire en sorte que les utilisateurs sans token de connexion soit redirigé vers l'ecran login, Et que les utilisateurs ayant un token ne puissent pas aller sur l'ecran Login, qu'il soient redirigé vers l'ecran characters.
 
 
+## V) Système de favoris
+
+Faire en sorte que l'on puisse ajouter nos héros préféré a une liste de favoris, cette liste devra être accessible hors ligne
+
+## VI) Gestion Hors Ligne
+
+Faire un systeme qui stocke les X premiers héros et qui les affichent si il n'y a pas de réseaux, faire un systeme qui notifie l'utilisateur qu'il n'a pas de connexion (ne pas laisser une page vide)
