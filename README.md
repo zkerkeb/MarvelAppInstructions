@@ -74,3 +74,7 @@ Faire en sorte que l'on puisse ajouter nos héros préféré a une liste de favo
 ## VI) Gestion Hors Ligne
 
 Faire un systeme qui stocke les X premiers héros et qui les affichent si il n'y a pas de réseaux, faire un systeme qui notifie l'utilisateur qu'il n'a pas de connexion (ne pas laisser une page vide)
+
+## VII) Fonction Recherche
+
+Creer une fonction recherche.
